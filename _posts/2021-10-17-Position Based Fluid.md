@@ -2,7 +2,7 @@
 layout: post
 title: "基于空间位置的流体模拟 - Position Based Fluid"
 description: ""
-tags: [CG,物理]
+tags: [CG, 物理]
 ---
 
 <figure>

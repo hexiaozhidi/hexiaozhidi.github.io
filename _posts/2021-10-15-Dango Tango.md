@@ -2,7 +2,7 @@
 layout: post
 title: "日语单词机 - Dango Tango"
 description: ""
-tags: [日语、单词]
+tags: [日语, 单词]
 ---
 
 <figure>
