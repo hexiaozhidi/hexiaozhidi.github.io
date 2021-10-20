@@ -16,5 +16,5 @@ tags: [游戏]
 
 此外，为了增加趣味性，游戏含有十余种增益与干扰道具，每块被摧毁的砖块都有一定概率生成一种道具，并向屏幕底部坠落。玩家可以通过控制挡板接住道具，从而使之生效。
 
-[Github](https://github.com/hexiaozhidi/SimpleBreakout)  [下载](https://github.com/hexiaozhidi/SimpleBreakout/releases/download/Windows/SimpleBreakout_v1.0.0.zip)
+[GitHub](https://github.com/hexiaozhidi/SimpleBreakout)  [下载](https://github.com/hexiaozhidi/SimpleBreakout/releases/download/Windows/SimpleBreakout_v1.0.0.zip)
 
